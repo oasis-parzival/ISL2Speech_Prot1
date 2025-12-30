@@ -6,11 +6,15 @@ Clone the repo & open in VS Code.
 
 Open terminal and run: pip install -r requirements.txt
 
+
+
 2️⃣ Run the App
 
 Type: python inference.py
 
 (Press 'q' to quit).
+
+
 
 3️⃣ Adding New Signs (Optional) If you want to add a new word:
 
